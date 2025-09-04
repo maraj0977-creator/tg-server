@@ -1,0 +1,7 @@
+telethon
+httpx
+Pillow
+python-dotenv
+pytz
+langdetect
+pydub
